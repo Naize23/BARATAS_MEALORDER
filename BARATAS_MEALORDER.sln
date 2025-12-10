@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BARATAS_MEALORDER", "BARATAS_MEALORDER\BARATAS_MEALORDER.csproj", "{971B888E-0282-4B1B-AF2D-1C29F4BF2B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971B888E-0282-4B1B-AF2D-1C29F4BF2B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971B888E-0282-4B1B-AF2D-1C29F4BF2B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971B888E-0282-4B1B-AF2D-1C29F4BF2B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971B888E-0282-4B1B-AF2D-1C29F4BF2B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD994B5-2AEB-4073-87A4-4B5ED7EEA975}
+	EndGlobalSection
+EndGlobal
